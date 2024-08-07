@@ -1,0 +1,3 @@
+The purpose of this file is to Greet whoever Loock At It, whoever pass from here
+
+Hello there, have a good day/night!
